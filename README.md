@@ -1,4 +1,4 @@
-Changman: Hangman in C, just learning C
+Changman: Hangman in C, just learning C, ports, and threading
 
 
 Server:
